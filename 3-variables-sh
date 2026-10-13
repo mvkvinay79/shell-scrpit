@@ -4,5 +4,5 @@ PERSON1="vinay"
 PERSON2="suresh"
 
 echo "$PERSON1:: hi, $PERSON2 how are you"
-echo "$person2:: hi, $PERSON1 i am fine, how are you?"
+echo "$PERSON2:: hi, $PERSON1 i am fine, how are you?"
 echo "$PERSON1:: i am fine, thanks for asking"
