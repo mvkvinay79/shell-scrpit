@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "all args passed the to script: $@"
+echo "all argumentss passed the to script: $@"
+echo "nuber of arguments assed to the script: $#"
