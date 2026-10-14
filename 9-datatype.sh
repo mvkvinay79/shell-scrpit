@@ -6,3 +6,4 @@ var2=30
 echo "$var1+$var2"
 
 echo "(($var1+$var2))"
+echo $var1+$var2
