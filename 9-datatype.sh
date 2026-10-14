@@ -20,5 +20,5 @@ FRUITS=("apple", "banana", "mango", "grapes")
 echo "all fruits: ${FRUITS[@]}"
 
 
-name="vinay kumar"
+name="vinay kumar "
 echo "${name}Malepati"
