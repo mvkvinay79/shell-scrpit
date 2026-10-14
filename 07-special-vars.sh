@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "all args passed the to script: $Q"
+echo "all args passed the to script: $@"
