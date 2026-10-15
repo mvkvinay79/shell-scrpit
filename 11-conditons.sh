@@ -10,7 +10,7 @@ exit 1
 fi
 
 echo "proceeding...."
-dnf install nignix -y
+dnf install nginx -y
 
 if [ $? -ne 0 ]; then
 echo "installation failed"
@@ -27,5 +27,5 @@ if [ $? -ne 0 ]; then
    else
     echo "mysql installation is successful"
 
-    
+
 echo "still porceeded..."
