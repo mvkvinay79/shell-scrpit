@@ -10,4 +10,4 @@ exit 1
 fi
 
 echo "proceeding...."
-dnf install nignix -y
+dnf install nignixxxx -y
