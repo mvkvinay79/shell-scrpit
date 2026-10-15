@@ -8,4 +8,5 @@ echo "please run this script as root user"
 
 fi
 
+echo "proceeding...."
 dnf install nignix -y
