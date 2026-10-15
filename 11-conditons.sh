@@ -11,3 +11,5 @@ fi
 
 echo "proceeding...."
 dnf install nignixxxx -y
+
+echo "still porceeded..."
